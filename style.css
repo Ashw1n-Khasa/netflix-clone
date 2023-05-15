@@ -1,0 +1,217 @@
+body{
+    
+    background-image: url("Screenshot\ from\ 2023-05-15\ 19-07-52.png");
+    /* background-image: linear-gradient(rgba(10, 27, 42, 0.7),
+                       rgba(10, 27, 42, 0.7)), url("Screenshot\ from\ 2023-05-15\ 19-07-52.png"); */
+    background-repeat: no-repeat;
+    background-color: rgb(16, 8, 49);
+    /* background-attachment:scroll; */
+    width:77rem;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100rem;
+    /* filter: brightness(50%); */
+    font-family: sans-serif;
+}
+
+
+
+#netflix-logo{
+    height:10rem;
+    opacity:2;
+    
+}
+
+#overlay{
+    
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+}
+
+.sign-in-button{
+    height:2.5rem;
+    margin-top: 2.5rem;
+    width:6rem;
+    font-size:1rem;
+    border: transparent;
+    border-radius: 0.4rem;
+    color:white;
+    background-color: red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+#main-data{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+    height:20rem;
+    font-size: 3rem;
+    color:white;
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    /* border: solid black 2rem; */
+}
+
+#flex1{
+    width:70%;
+    margin: auto;
+}
+
+.unlimited-movie{
+    font-size: 5rem;
+    margin-bottom: 1rem;    
+    font-weight: bolder;
+    word-spacing: 0.2rem;
+}
+
+.watch-anywhere{
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+
+}
+
+.email-k-upr-wala{
+    font-size: 1.5rem;
+    padding-bottom: 0.7rem;
+    word-spacing: 0.2rem;
+}
+
+.email-wala-box{
+    width:70%;
+    margin: auto;
+    /* margin-left: auto;
+    margin-right:auto; */
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    /* background: linear-gradient(0deg, rgba(0, 8, 29, 1), rgba(0, 8, 29, 1)) padding-box,linear-gradient(271.65deg, #233371 5.26%, #00197a 50.02%,#e50914 97.68%) border-box; */
+    background-color: rgb(5, 5, 25);
+    border-radius: 0.5rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    /* margin-bottom: 5rem; */
+    
+}
+
+.input-email{
+    width:45%;
+    font-size: 1.5rem;
+    border-radius: 0.5rem;
+    border: solid white 1px;
+    height:3rem;
+    padding-left: 1rem;
+}
+
+/* .input-k-side-button{
+    
+    background-color: red;
+    color: white;
+    border: none;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+    width:20%;
+    height:3.2rem;
+    margin-top: 0rem;
+} */
+#input-email{
+    height:3rem;
+    color: white;
+    border: none;
+    font-size: 2rem;
+    padding-bottom: 0.6rem;
+    border-radius: 0.5rem;
+    width:20%;
+    color:white;
+    background-color: red;
+
+}
+
+.body-of-netflix{
+    display: flex;
+    margin-top: 3rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 7rem;
+    padding-right: 7rem;
+    border: none;
+    background-color: #01093C;
+    display: flex;
+    width:80%;
+    margin: auto;
+    margin-top: 0rem;
+
+    
+    
+}
+
+.enjoy-on-TV{
+    font-size: 3.5rem;
+    padding-top: 5.9rem;
+    font-weight: bolder;
+
+}
+
+.Tv-wala-data{
+    padding-top: 2rem;
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    /* width: 40%; */
+}
+
+.tv-img{
+    height: 24rem;
+}
+
+.br-line{
+    width:60%;
+    background-color:white ;
+    height: 1px;
+    border-radius: 1rem;
+    margin: auto;
+    color:rgb(16,8,49);
+}
+
+.faq{
+    display: flex;
+    margin-top: 4rem;
+    flex-direction: column;
+    background-color:rgb(16,8,49);
+
+
+    margin-top: 3rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 7rem;
+    padding-right: 7rem;
+    border: none;
+    
+    width:80%;
+    
+    
+
+    
+}
+
+.faq-box{
+    border: solid black 1px;
+    font-size: 1.5rem;
+    height: 2.5rem;
+    background-color: #132144;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    margin-top: 0.5rem;
+}
+
+#mobile-no{
+    font-size: 1rem;
+    background-color: (16,8,49);
+    color: rgb(238, 233, 224);
+
+}
+

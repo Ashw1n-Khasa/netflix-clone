@@ -215,3 +215,127 @@ body{
 
 }
 
+
+
+  
+@media (max-width: 768px) {
+
+    /* body{
+        width:200px;
+    } */
+    body{
+        background-image: none;
+    }
+
+    #overlay{
+        display: flex;
+        justify-content: space-between;
+        width:24.5rem;
+        margin-left:0rem ;
+        /* margin-top: 0rem;
+        padding-top: 0rem; */
+        height: 4rem;
+    }
+
+    #netflix-logo{
+        height:4rem;
+        margin-right: 10rem;
+        padding-top:1.6rem;
+    }
+
+    .sign-in-button{
+        height:2rem
+    }
+    
+    #main-data{
+        margin-left:0rem;
+        width:30rem;
+        padding-left: 0px;
+        background-color: #01093C;;
+
+        
+    }
+
+    .unlimited-movie{
+        font-size: 3rem;
+    }
+
+    .watch-anywhere{
+        margin-top: 2rem;
+    }
+
+    .email-k-upr-wala{
+        word-spacing: 5px;
+        font-size: 1.3rem;
+        margin-bottom: 0.3rem;
+    }
+
+    .email-wala-box{
+        width:20rem;
+        margin:0px;
+        margin-top: 2rem;
+        margin-left: 0.9rem;
+        font-size: 1.5rem;
+        word-spacing: 10px;
+    }
+
+    .input-email{
+        width:11rem;
+        font-size: 1.3rem;
+    }
+
+    #input-email{
+        width:6.5rem;
+        margin: 0px;
+        height: 3rem;
+        padding: 0px;
+        font-size: 1.3rem;
+    }
+
+    .body-of-netflix{
+        width:24rem;
+        margin-top: 2rem;
+        display: flex;
+        flex-direction: column;
+        padding: 0rem;
+        margin-left: 0.8rem;
+        background-color: #01093C;
+        height: 200rem;
+        padding-bottom: 2rem;
+    }
+
+    .enjoy-on-TV{
+        padding-top: 3rem;
+        padding-left: 1.7rem;
+        font-size: 2.4rem;
+    }
+
+    .Tv-wala-data{
+        font-size:1rem ;
+        padding-top: 1rem;
+        padding-left: 1.7rem;
+        padding-right: 1rem;
+    }
+
+    .tv-img{
+        height: 16rem;
+        margin-left: 1.3rem;
+    }
+
+    .br-line{
+        margin-top: 2rem;
+        margin-left: 3.9rem;
+    }
+
+    .faq{
+        width:22rem;
+        padding:0px;
+        padding-left: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .faq-box-title{
+        font-size: 2rem;
+    }
+}
+  
